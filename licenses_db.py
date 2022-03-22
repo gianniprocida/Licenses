@@ -65,7 +65,7 @@ def check_licenses(table1, table2):
  JOIN {1} ON {0}.product_licenses={1}.product_licenses """.format(table1,table2)
     c.execute(query_join)
 
-    query_user= """ SELECT DISTINCT user_name FROM new_table"""
+    query_user= """ SELECT user_name FROM new_table"""
 
 
     c.execute(query_user)
@@ -77,7 +77,7 @@ def check_licenses(table1, table2):
         users.append(item[0])
 
 
-    query_product_lic = """ SELECT DISTINCT product_name FROM new_table"""
+    query_product_lic = """ SELECT product_name FROM new_table"""
 
     c.execute(query_product_lic)
 
