@@ -7,17 +7,15 @@ Your task is to fetch information from the database and print the following info
 
 <p align="left">
 
-  <img src="Figure_1.png" width="350" > 
-<caption>Input</caption>
+
+  <img src="Figure_1.png" width="350" >
 </p>
 
 <p align="left">
-<caption>Desired output format</caption>
   <img src="Figure_2.png" width="350" >
 </p>
 
 <p align="left">
-<caption>My achievement </caption>
   <img src="Figure_3.png" width="350">
 </p>
 
