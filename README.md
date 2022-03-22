@@ -15,14 +15,16 @@ Your task is to fetch information from the database and print the following info
 <figure>
   <img src="Figure_2.png" width="350"
  alt="output">
-    <figcaption> Desired output </figcaption>
+    
 </figure>
 
 
+<p align="center">
+while my achievement is:
+</p>
 <figure>
   <img src="Figure_3.png" width="350"
  alt="output">
-    <figcaption> My achievement </figcaption>
 
 </figure>
 
