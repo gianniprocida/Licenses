@@ -11,9 +11,13 @@ Your task is to fetch information from the database and print the following info
   <img src="Figure_1.png" width="350" >
 </p>
 
-<p align="left">
-  <img src="Figure_2.png" width="350" >
-</p>
+
+<figure>
+  <img src="Figure_2.png" width="350"
+ alt="output">
+    <figcaption> Desired output </figcaption>
+
+</figure>
 
 
 <figure>
