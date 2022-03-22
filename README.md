@@ -5,7 +5,7 @@ You are given two tables products and users in a MySQL database. The products ta
 Your task is to fetch information from the database and print the following info to the console: For every pair <user, product> you should print true if the user has at least one of the valid licenses for this product, and false otherwise. 
 </p>
 
-<p align="left">
+<p align="center">
 
 
   <img src="Figure_1.png" width="350" >
@@ -15,6 +15,7 @@ Your task is to fetch information from the database and print the following info
   <img src="Figure_2.png" width="350" >
 </p>
 
+<p align="center" > My achievement</p> 
 <p align="left">
   <img src="Figure_3.png" width="350">
 </p>
