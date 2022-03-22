@@ -8,16 +8,11 @@ Your task is to fetch information from the database and print the following info
 
 <p align="center">
 <caption>Input</caption>
-  <img src="Figure_1.png" width="350" title="Input"> 
+  <img src="Figure_1.png" width="350" > 
 <caption>Desired output format</caption>
-  <img src="Figure_2.png" width="350" title="Input">
-
-</p>
-
-<p align="center">
+  <img src="Figure_2.png" width="350" >
 <caption>My achievement </caption>
-  <img src="Figure_3.png" width="350" title="Output">
-</p>
+  <img src="Figure_3.png" width="350">
 
 
 
