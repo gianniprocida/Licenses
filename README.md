@@ -5,11 +5,11 @@ You are given two tables products and users in a MySQL database. The products ta
 Your task is to fetch information from the database and print the following info to the console: For every pair (user, product) you should print true if the user has at least one of the valid licenses for this product, and false otherwise. The input and the desired output are as follows:
 </p>
 
-<p align="center">
-
-
-  <img src="Figure_1.png" width="350" >
-</p>
+<figure>
+  <img src="Figure_1.png" width="350"
+ alt="output">
+    
+</figure>
 
 
 <figure>
