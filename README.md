@@ -12,12 +12,6 @@ Your task is to fetch information from the database and print the following info
 </figure>
 
 
-<figure>
-  <img src="Figure_2.png" width="350"
- alt="output">
-    
-</figure>
-
 
 <p align="left">
 while my achievement is:
