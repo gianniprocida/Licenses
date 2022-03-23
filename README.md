@@ -12,7 +12,6 @@ Your task is to fetch information from the database and print the following info
 </figure>
 
 
-
 <p align="left">
 while my achievement is:
 </p>
