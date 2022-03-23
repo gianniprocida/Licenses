@@ -6,7 +6,7 @@ Your task is to fetch information from the database and print the following info
 </p>
 
 <figure>
-  <img src="Figure_1.png" width="350"
+  <img src="Fig_1.png" width="350"
  alt="output">
     
 </figure>
@@ -16,7 +16,7 @@ Your task is to fetch information from the database and print the following info
 while my achievement is:
 </p>
 <figure>
-  <img src="Figure_3.png" width="350"
+  <img src="Fig_3.png" width="350"
  alt="output">
 
 </figure>
